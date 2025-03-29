@@ -23,4 +23,4 @@ The tool is designed to be easy to use and to integrate into other projects or a
    ```bash
    git clone https://github.com/DissidentNRV/NumTools.git
    cd NumTools
-   python NumTools.py
+   python NumTools.py / NumBox.py / cut.py / NumGen.py
